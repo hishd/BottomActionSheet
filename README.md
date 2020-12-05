@@ -3,7 +3,7 @@
 iOS style bottom action sheet for android, a simple gradle dependancy which enables to show a bottom action sheet on android projects.
 
 ### Screenshot
-<img src="https://github.com/hishd/BottomActionSheet/blob/master/images/screen.gif" width="100">
+<img src="https://github.com/hishd/BottomActionSheet/blob/master/images/screen.gif" width="300">
 
 ### Installation & Setup
 
