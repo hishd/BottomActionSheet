@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultTitle">Sample Title</string>
+    <string name="defaultMessage">Sample Message</string>
+    <string name="captionMainTopButton">Button Top</string>
+    <string name="captionMainBottomButton">Button Bottom</string>
+    <string name="captionDefaultButton">Button Default</string>
+</resources>
