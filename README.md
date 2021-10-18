@@ -1,4 +1,6 @@
 # Bottom Action sheet
+[![](https://jitpack.io/v/hishd/BottomActionSheet.svg)](https://jitpack.io/#hishd/BottomActionSheet)
+
 
 iOS style bottom action sheet for android, a simple gradle dependancy which enables to show a bottom action sheet on android projects.
 
